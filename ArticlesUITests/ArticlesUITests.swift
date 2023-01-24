@@ -2,7 +2,7 @@
 //  ArticlesUITests.swift
 //  ArticlesUITests
 //
-//  Created by Scheila Gabriela Palharini Rodrigues on 13/09/22.
+//  Created by Diego Rodrigues on 13/09/22.
 //
 
 import XCTest
